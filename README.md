@@ -18,7 +18,7 @@ This project is part of my internship at CODSOFT, where I developed a face detec
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/face-detection-app.git
+    git clone https://github.com/omarelnabawi/face-detection-app.git
     cd face-detection-app
     ```
 
